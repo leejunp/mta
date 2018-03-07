@@ -59,6 +59,20 @@ p{
   margin-bottom: 10px;
 }
 
+.smalla {
+  height: 0px; width: 0px;
+	border: 15px solid;
+	border-color:
+		mediumseagreen
+		mediumseagreen
+		transparent
+		transparent;
+	transform: rotate(225deg);
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 15px;
+}
+
 .shape {
   width: 20vw;
 	height: 20vw;
@@ -115,6 +129,43 @@ p{
 #yellows{
   background-color: #FFD630;
 }
+
+
+#reda{
+  border-color:
+    #FA3747
+    #FA3747
+    transparent
+    transparent;
+}
+
+#purplea{
+  border-color:
+    #6D3AE8
+    #6D3AE8
+    transparent
+    transparent;
+}
+
+#bluea{
+    border-color:
+      #005AC2
+      #005AC2
+      transparent
+      transparent;
+
+}
+
+#yellowa{
+    border-color:
+      #FFD630
+      #FFD630
+      transparent
+      transparent;
+}
+
+
+
 #reds:hover{
   background-color: #EB3443;
 }
